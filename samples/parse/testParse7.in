@@ -1,0 +1,14 @@
+print 1;
+break;
+a = 1;
+while a < 15 and k {
+	k = k + a;
+	a = a + a;
+	if k > 100 { break; }
+	elif e { k = 5; a = not a;}
+	elif a and not b { break; k = 10;}
+	else { k = 10;}
+}
+k = not not not not 6;
+
+

@@ -1,0 +1,11 @@
+print 1;
+break;
+a = 1;
+while a < 15 and k {
+	k = k + a;
+	a = a + a;
+	if k > 100 { break; }
+}
+k = not not not not 6;
+
+
